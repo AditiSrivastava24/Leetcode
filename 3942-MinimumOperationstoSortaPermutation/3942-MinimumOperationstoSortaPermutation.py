@@ -1,4 +1,4 @@
-# Last updated: 10/22/2026, 3:07:37 PM
+# Last updated: 10/22/2026, 3:08:05 PM
 1class Solution:
 2    def minOperations(self, nums: list[int]) -> int:
 3        n = len(nums)
